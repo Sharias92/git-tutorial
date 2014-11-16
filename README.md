@@ -1,7 +1,6 @@
 
 #Gitチュートリアル
 
--feature-A
-conf
--fix B
-
+- feature-A
+- fix B
+- feature-CD
