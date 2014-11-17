@@ -3,4 +3,5 @@
 
 - feature-A
 - fix B
-- feature-CD
+- feature-C
+- feature-D
